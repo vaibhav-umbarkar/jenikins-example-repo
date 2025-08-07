@@ -1,1 +1,1 @@
-printf("Hello from python script... (version 1.0)")
+print("Hello from python script... (version 1.0)")
